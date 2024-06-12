@@ -6,7 +6,7 @@ We study the molecular genetics of invasive lobular breast cancer and in situ br
 
 ## Projects
 
-- [**Prevent Ductal Carcinoma in Situ Invasive Overtreatment Now – PRECISION**](https://www.dcisprecision.org/). In order to reduce the overtreatment of pre-cancerous conditions that do not progress to invasive disease, the Breast Cancer Genetics group are looking at cohort of patients who have had Ductal Carcinoma in situ (DCIS) in the past in the hopes of identifying any markers that can help in predicting the recurrence or progression from DCIS to invasive cancer.
+- Prevent Ductal Carcinoma in Situ Invasive Overtreatment Now – [**PRECISION**](https://www.dcisprecision.org/). In order to reduce the overtreatment of pre-cancerous conditions that do not progress to invasive disease, the Breast Cancer Genetics group are looking at cohort of patients who have had Ductal Carcinoma in situ (DCIS) in the past in the hopes of identifying any markers that can help in predicting the recurrence or progression from DCIS to invasive cancer.
 
 ## Packages
 
@@ -14,4 +14,4 @@ We study the molecular genetics of invasive lobular breast cancer and in situ br
 
 ## Our recent publications 
 
--  [Lips, E.H., Kumar, T., Megalios, A. et al. Genomic analysis defines clonal relationships of ductal carcinoma in situ and recurrent invasive breast cancer. Nat Genet 54, 850–860 (2022).](https://doi.org/10.1038/s41588-022-01082-3)]()
+-  [Lips, E.H., Kumar, T., Megalios, A. et al. Genomic analysis defines clonal relationships of ductal carcinoma in situ and recurrent invasive breast cancer. Nat Genet 54, 850–860 (2022).](https://doi.org/10.1038/s41588-022-01082-3))

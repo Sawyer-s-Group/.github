@@ -1,6 +1,6 @@
-## Hi there, this is Sawyer's Lab! 👋
+## Hello world, this is Sawyer's Lab! 👋
 
-We are [Breast Cancer Genetics Group](https://www.kcl.ac.uk/research/breast-cancer-genetics), a research group at the King's College London and led by Professor Elinor Sawyer, a Clinical Oncologist. The group is based in the Innovation Hub in the Guys Cancer Centre, London. 
+We are [Breast Cancer Genetics Group](https://www.kcl.ac.uk/research/breast-cancer-genetics), a research group at the King's College London :school: and led by Professor Elinor Sawyer, a Clinical Oncologist. The group is based in the Innovation Hub in the Guys Cancer Centre, London. 
 
 We study the molecular genetics of invasive lobular breast cancer and in situ breast cancer and the identification of biomarkers of progression to invasive disease. There is also a strong interest in genetic predisposition to these subtypes of breast cancer.
 
@@ -15,3 +15,5 @@ We study the molecular genetics of invasive lobular breast cancer and in situ br
 ## Our recent publications 
 
 -  [Lips, E.H., Kumar, T., Megalios, A. et al. Genomic analysis defines clonal relationships of ductal carcinoma in situ and recurrent invasive breast cancer. Nat Genet 54, 850–860 (2022).](https://doi.org/10.1038/s41588-022-01082-3))
+
+![](https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41588-022-01082-3/MediaObjects/41588_2022_1082_Fig13_ESM.jpg?as=webp)

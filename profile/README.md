@@ -10,7 +10,7 @@ We study the molecular genetics of invasive lobular breast cancer and in situ br
 
 ## Packages
 
-- [Breakclone]([https://github.com/argymeg/breakclone](https://github.com/Sawyer-s-Group/breakclone)) is an R package for assessing clonal relationships of tumour pairs based on copy number or mutation data.
+- [Breakclone]([https://github.com/argymeg/breakclone](https://github.com/Sawyer-s-Group/breakclone) is an R package for assessing clonal relationships of tumour pairs based on copy number or mutation data.
 
 ## Our recent publications 
 
